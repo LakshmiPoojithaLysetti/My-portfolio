@@ -16,7 +16,7 @@ const Footer = () => {
   const socialLinks = [
     // { icon: Github, href: "https://github.com/lakshmipoojitha", label: "GitHub" }, // From resume
     { icon: Linkedin, href: "https://linkedin.com/in/lakshmipoojitha", label: "LinkedIn" }, // From resume
-    { icon: Mail, href: "mailto:lakshmi.poojitha@example.com", label: "Email" } // From resume
+    { icon: Mail, href: "mailto:lakshmi.p@mytalent.com", label: "Email" }
   ];
 
   return (
@@ -68,7 +68,7 @@ const Footer = () => {
             <div className="space-y-4">
               <h4 className="text-lg font-semibold">Get In Touch</h4>
               <div className="space-y-2 text-primary-foreground/80">
-                <p>lysettilakshmipoojitha@gmail.com</p> {/* From resume */}
+                <p>lakshmi.p@mytalent.com</p>
                 <p> +1 (216) 924-6027</p> {/* From resume */}
                 <p>Fullerton, CA</p> {/* From resume */}
               </div>

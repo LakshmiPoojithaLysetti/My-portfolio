@@ -70,12 +70,11 @@ const HeroSection = () => {
   Let's Connect
 </Button>
 
-                                     <a href={resumePDF} download="poojitha.pdf.pdf">
-                <Button variant="portfolio" size="hero" className="group">
-                     {/* <a href={resumePDF} download="poojitha.pdf.pdf"> */}
-                  <Download className="mr-2 group-hover:translate-y-1 transition-transform duration-300" />
-                  Download CV
-                </Button>
+                                                     <a href={resumePDF} download="poojitha.pdf.pdf">
+                  <Button variant="portfolio" size="hero" className="group">
+                    <Download className="mr-2 group-hover:translate-y-1 transition-transform duration-300" />
+                    Download CV
+                  </Button>
                 </a>
               </div>
 
@@ -87,7 +86,7 @@ const HeroSection = () => {
                 <a href="https://www.linkedin.com/in/lakshmi-poojitha-lysetti" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-all duration-300 transform hover:scale-110 hover:rotate-12">
                   <Linkedin size={28} />
                 </a>
-                <a href="mailto:lysettilakshmipoojitha@gmail.com" className="text-muted-foreground hover:text-accent transition-all duration-300 transform hover:scale-110 hover:rotate-12">
+                <a href="mailto:lakshmi.p@mytalent.com" className="text-muted-foreground hover:text-accent transition-all duration-300 transform hover:scale-110 hover:rotate-12">
                   <Mail size={28} />
                 </a>
               </div>

@@ -17,8 +17,8 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "lakshmi.poojitha@example.com", // From resume
-      // href: "mailto:lakshmi.poojitha@example.com"
+      value: "lakshmi.p@mytalent.com",
+      // href: "mailto:lakshmi.p@mytalent.com"
     },
     {
       icon: Phone,
